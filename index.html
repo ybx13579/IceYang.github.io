@@ -1,24 +1,20 @@
 ---
-layout: default
----
-
-<div class="main-post-list">
-
-  <ol class="post-list">
-    {% for post in paginator.posts %}
-      <li>
-        <h2 class="post-list__post-title post-title"><a href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-        <p class="excerpt">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}&hellip;</p>
-        <div class="post-list__meta"><time datetime="{{ post.date | date: "%-d %b %Y" }}" class="post-list__meta--date date">{{ post.date | date: "%-d %b %Y" }}</time> &#8226; <span class="post-meta__tags">on {% for tag in post.tags %}<a href="{{ site.baseurl }}tags/#{{ tag }}">{{ tag }}</a> {% endfor %}</span></div>
-        <hr class="post-list__divider">
-      </li>
-    {% endfor %}
-  </ol>
-
-  <hr class="post-list__divider ">
-
-  {% if paginator.previous_page or paginator.next_page %}
-      {% include pagination.html %}
-  {% endif %}
-
+layout: default 
+---      
+<div class="container">
+<div class="home">
+    <div class="banner">
+        <div class="banner-text">
+            <h1 class="headline">I'M <span>MINGYANG</span></h1>
+            <h3>Looking for a job about Web Font-End Developer</h3>
+            <h3>I love  programming, getting lost. </h3>
+            <ul class="social">
+                <li><a href="https://github.com/{{ site.name }}"><i class="icon-github"></i></a></li>
+                <li><a href="//www.facebook.com/{{ site.name }}"><i class="icon-facebook"></i></a></li>
+                <li><a href="https://twitter.com/{{ site.name }}"><i class="icon-twitter"></i></a></li>
+                <li><a href="//www.linkedin.com/in/{{ site.name }}"><i class="icon-linkedin2"></i></a></li>
+            </ul>
+        </div>
+    </div>              
+</div>
 </div>

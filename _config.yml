@@ -1,39 +1,23 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://joshgerdes.com/jekyll-uno'
-baseurl: '/jekyll-uno/'
-# google_analytics: 'UA-XXXXXX-X'
-# disqus_shortname: 'your-disqus-name'
+title: 'LMY-HOME'  # Your Title
+tagline: '柔弱、无欲，顺乎自然，但却具有强大的生命力'  # A brief tagline for your site
+sidebar_image: /images/cover.jpg
 
-author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
-
-defaults:
-  -
-    scope:
-      path: ''
-      type: 'posts'
-    values:
-        layout: 'post'
-
-# Build settings
-destination: _site
-paginate: 10
-permalink: /:year/:title/
+encoding: UTF-8
 markdown: kramdown
-highlighter: rouge
 
-kramdown:
-  # use Github Flavored Markdown
-  input: GFM
-  # do not replace newlines by <br>s
-  hard_wrap: false
+paginate: 8
+paginate_path: "page:num"
 
-gems: ['jekyll-paginate']
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
+#pygments: true
+baseurl: ""
+
+
+# Site settings
+name:           limingyang2012
+email:          limingyang2012@zju.edu.cn
+uri:            limingyang2012.github.io
+github:         limingyang2012
+twitter:        limingyang2012
+facebook:       limingyang2012
+linkedin:       limingyang2012
