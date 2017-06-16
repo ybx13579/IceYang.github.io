@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Yang Bingxiao Resume
+title: Yang Bingxiao 的简历
 tags: [Resume]
 date: 2017-06-16
 comments: false
@@ -50,15 +50,15 @@ comments: false
 
 # 个人信息
 
- - 胶布帝/男/1990 
- - 本科/萌鹿大学计算机系 
+ - 杨冰肖/女/1990 
+ - 大专/石家庄信息工程职业学院/计算机应用技术系 
  - 工作年限：3年
- - 微博：[@JobDeer](http://weibo.com/jobdeer) （``` 如果没有技术相关内容，也可以不放 ```）
- - 技术博客：http://blog.github.io ( ``` 使用GitHub Host的Big较高 ```  )
- - Github: http://github.com/geekcompany ( ``` 有原创repo的Github帐号会极大的提升你的个人品牌 ```  )
+ - 微博：[@话梅大人ME](http://weibo.com/u/2114928095)
+ - 技术博客：http://blog.csdn.net/YangBingX
+ - Github: https://github.com/ybx13579 
 
- - 期望职位：Web前端高级程序员，应用架构师
- - 期望薪资：税前月薪15k~20k，特别喜欢的公司可例外
+ - 期望职位：Web前端工程师，JS工程师
+ - 期望薪资：税前月薪11k~15k，特别喜欢的公司可例外
  - 期望城市：北京
 
 ---
