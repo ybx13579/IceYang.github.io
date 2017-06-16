@@ -1,6 +1,6 @@
 # Ice Yang 的个人网站
     
-<a href="https://ybx13579.github.io/IceYang.github.io/">个人网站传送门</a> 
+<a href="https://ybx13579.github.io/IceYang.github.io/ "  target="_blank">个人网站传送门</a> 
 
 
 ## 包括：
