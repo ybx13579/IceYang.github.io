@@ -4,6 +4,7 @@ title: Yang Bingxiao Resume
 tags: [Resume]
 date: 2017-06-16
 comments: false
+encoding: UTF-8
 ---
     
 <center>以下是简历。</center>
