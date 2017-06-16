@@ -1,7 +1,8 @@
-# Site
+﻿# Site
 title:              Ice Yang
 bio:                'I am a Web Developer.'
-description:        ""
+description:        "(✿◡‿◡)"
+encoding:			UTF-8
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
