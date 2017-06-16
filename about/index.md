@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Yang Bingxiao 的简历
-tags: [Resume]
+tags: [html/css js/jq Echarts vue bootstrap]
 date: 2017-06-16
 comments: false
 
