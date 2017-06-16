@@ -2,7 +2,7 @@
 title:              Ice Yang
 bio:                'I am a Web Developer.'
 description:        "(✿◡‿◡)"
-encoding:			UTF-8
+#encoding:			UTF-8
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
