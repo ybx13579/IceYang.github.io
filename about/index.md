@@ -7,9 +7,9 @@ comments: false
 
 ---
  
-<center>以下是简历。</center>
-
-
+<center>Yang Bingxiao</center>
+<center>石家庄信息***学院|专|计算机应用技术</center>
+<center>yangbingxiao001@gmail.com</center>
 
 # 联系方式
 
