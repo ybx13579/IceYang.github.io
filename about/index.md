@@ -8,7 +8,7 @@ comments: false
 ---
  
 <center>Yang Bingxiao</center>
-<center>石家庄信息***学院|专|计算机应用技术</center>
+<center>石家庄信息***学院 | 专 | 计算机应用技术</center>
 <center>yangbingxiao001@gmail.com</center>
 
 # 联系方式
