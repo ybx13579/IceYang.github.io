@@ -13,10 +13,9 @@ comments: false
 
 # 联系方式
 
-- 手机：135******** （```如果是外地手机，可注明。如经常关机，要写上最优联系时间```）
-- Email：goodman@gmail.com （```虽然我觉得QQ邮箱无所谓，不过有些技术人员比较反感，建议用G```）
-- QQ/微信号：6*******（```提供一个通过网络可以联系到你的方式```）
-
+- 手机：135****2732
+- Email：yangbingxiao001@gmail.com 
+- QQ/微信号：bing7730882**
 ---
 
 # 个人信息
@@ -25,8 +24,8 @@ comments: false
  - 大专/石家庄信息*学院/计算机应用技术系 
  - 工作年限：3年
  - 微博：[@话梅大人ME](http://weibo.com/u/2114928095)
- - 技术博客：http://blog.csdn.net/YangBingX
- - Github: https://github.com/ybx13579 
+ - 技术博客：[CSDN博客](http://blog.csdn.net/YangBingX)
+ - Github: [GitHub](https://github.com/ybx13579) 
 
  - 期望职位：Web前端工程师，JS工程师
  - 期望薪资：税前月薪11k~15k，特别喜欢的公司可例外
