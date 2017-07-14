@@ -36,7 +36,7 @@ comments: false
 
 ## SOOVII （ 2016年7月 ~ 2017年7月 ）
 
-### 公司官网[SOOVII](https://www.soovii.com) 
+### 公司官网[SOOVII](www.soovii.com) 
 进公司的第一个项目，因刚来，需求未讨论完整，后边做的时候兼容问题造成了点困扰，好在及时沟通，补救后上线。
 
 
