@@ -23,9 +23,9 @@ comments: false
  - 杨/女/1990 
  - 大专/石家庄信息*学院/计算机应用技术系 
  - 工作年限：3年
- - 微博：[@话梅大人ME](http://weibo.com/u/2114928095)
  - 技术博客：[CSDN博客](http://blog.csdn.net/YangBingX)
  - Github: [GitHub](https://github.com/ybx13579) 
+  - 微博：[@话梅大人ME](http://weibo.com/u/2114928095)
 
  - 期望职位：Web前端工程师，JS工程师
  - 期望薪资：税前月薪11k~15k，特别喜欢的公司可例外
@@ -37,8 +37,7 @@ comments: false
 ## SOOVII （ 2016年7月 ~ 2017年7月 ）
 
 ### 公司官网[SOOVII](www.soovii.com) 
-进公司的第一个项目，因刚来，需求未讨论完整，后边做的时候兼容问题造成了点困扰，好在及时沟通，补救后上线。<br/>
-公司后台是.net，系统多为内部系统，界面样式要求不是很高，主要为技术点需求，如Echarts2/3、unitegallery.js、html2canvas、zwibbler、甘特图等
+进公司的第一个项目，因刚来，需求未讨论完整，后边做的时候兼容问题造成了点困扰，好在及时沟通，补救后上线。<br/>公司后台是.net，系统多为内部系统，界面样式要求不是很高，主要为技术点需求，如Echarts2/3、unitegallery.js、html2canvas、zwibbler、甘特图等。后转为python，并进行前后端分离，后第一个项目前端使用VUE，我与另一个后台搭配掉接口绑定。
  
 
 
