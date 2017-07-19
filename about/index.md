@@ -9,7 +9,7 @@ comments: false
  
 <center>Yang Bingxiao</center>
 <center>石家庄信息***学院 | 专 | 计算机应用技术</center>
-<center>135****2732</center>
+<center>135****2732@163.com</center>
 
 # 联系方式
 
