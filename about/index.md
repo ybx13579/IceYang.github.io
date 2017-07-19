@@ -38,7 +38,6 @@ comments: false
 
 ### 公司官网[SOOVII](www.soovii.com) 
 进公司的第一个项目，因刚来，需求未讨论完整，后边做的时候兼容问题造成了点困扰，好在及时沟通，补救后上线。
-
 公司后台是.net，系统多为内部系统，界面样式要求不是很高，主要为技术点需求，如Echarts2/3、unitegallery.js、html2canvas、zwibbler、甘特图等
  
 
