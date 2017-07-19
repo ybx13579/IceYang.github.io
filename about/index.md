@@ -9,13 +9,13 @@ comments: false
  
 <center>Yang Bingxiao</center>
 <center>石家庄信息***学院 | 专 | 计算机应用技术</center>
-<center>yangbingxiao001@gmail.com</center>
+<center>135****2732</center>
 
 # 联系方式
 
 - 手机：135****2732
 - Email：135****2732@163.com
-- QQ/微信号：bing7730882**
+- 微信号：bing7730882**
 ---
 
 # 个人信息
@@ -36,7 +36,7 @@ comments: false
 
 ## SOOVII （ 2016年7月 ~ 2017年7月 ）
 
-### 公司官网[SOOVII](www.soovii.com) 
+### 公司官网 （[SOOVII](www.soovii.com)）
 进公司的第一个项目，因刚来，需求未讨论完整，后边做的时候兼容问题造成了点困扰，好在及时沟通，补救后上线。<br/>公司后台是.net，系统多为内部系统，界面样式要求不是很高，主要为技术点需求，如Echarts2/3、unitegallery.js、html2canvas、zwibbler、甘特图等。后转为python，并进行前后端分离，后第一个项目前端使用VUE，我与另一个后台搭配调取接口绑定。
  
 
