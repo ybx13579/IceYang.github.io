@@ -76,7 +76,7 @@ comments: false
 - 版本管理、文档和自动化部署工具：Svn/Git/PHPDoc/Phing/Composer
 - 单元测试：PHPUnit/SimpleTest/Qunit
 - 云和开放平台：SAE/BAE/AWS/微博开放平台/微信应用开发
-
+- 
 
 
 
