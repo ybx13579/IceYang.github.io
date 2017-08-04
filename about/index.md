@@ -193,7 +193,7 @@ comments: false
 
 - 设计：熟悉PS
 - 前端框架：Bootstrap/HTML5/
-- Web开发：JQuery/vue
+- Web开发：JQuery/Echarts/VUE
 - 前端工具：LeSS
 - 数据库相关：MySQL
 - 版本管理、文档和自动化部署工具：Git
