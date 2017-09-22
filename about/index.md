@@ -1,33 +1,27 @@
 ---
 layout: page
-title: Yang Bingxiao 的简历
+title: Ice Yang 的简历
 tags: [html/css js/jq Echarts vue bootstrap]
 date: 2017-06-16
 comments: false
 
 ---
  
-<center>Yang Bingxiao</center>
-<center>石家庄***学院 | 专 | 计算机应用技术</center>
-<center>135****2732@163.com</center>
+<center>Ice Yang</center>
+<center> 专 | 计算机应用技术</center>
+<center>iceyangweb@gmail.com</center>
 
-# 联系方式
 
-- 手机：135****2732
-- Email：135****2732@163.com
-- 微信号：bing77**
 ---
 
 # 个人信息
 
- - 杨/女/1990 
- - 大专/石家庄*学院/计算机应用技术系 
+ - 杨/女/1993
+ - 大专/计算机应用技术专业
  - 工作年限：3年
  - 技术博客：[CSDN博客](http://blog.csdn.net/YangBingX)
- - Github: [GitHub](https://github.com/ybx13579) 
- - 微博：[@话梅大人ME](http://weibo.com/u/2114928095)
- 
- 
+ - Github： [GitHub](https://github.com/ybx13579) 
+ - 微博：[@话梅大人ME](http://weibo.com/u/2114928095)<br/>
  - 期望职位：Web前端工程师，H5工程师，JS工程师
  - 期望薪资：税前月薪9k~13k
  - 期望城市：北京
