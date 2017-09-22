@@ -98,7 +98,7 @@
 			padding-left: 30px;
 			background: rgba(0,0,0,0.2);
 		}
-		&.dl-back:after,
+		/*&.dl-back:after,
 		> a:not(:only-child):after {
 			position: absolute;
 			top: 0;
@@ -108,7 +108,7 @@
 			speak: none;
 			-webkit-font-smoothing: antialiased;
 			content: "\f105";
-		}
+		}*/
 		&.dl-back:after {
 			left: 10px;
 			color: rgba(212,204,198,0.5);
