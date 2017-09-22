@@ -14,3 +14,4 @@
 
 - 预览图 
 <img src="show/1.jpg"/> 
+<img src="show/2.jpg"/> 
