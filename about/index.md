@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Yang Bingxiao 的简历
+title: Ice Yang 的简历
 tags: [html/css js/jq Echarts vue bootstrap]
 date: 2017-06-16
 comments: false
 
 ---
  
-<center>Yang Bingxiao</center>
+<center>Ice Yang</center>
 <center> 专 | 计算机应用技术</center>
-<center>yangbingxiao001@gmail.com</center>
+<center>iceyangweb@gmail.com</center>
 
 
 ---
