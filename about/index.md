@@ -8,20 +8,20 @@ comments: false
 ---
  
 <center>Yang Bingxiao</center>
-<center>石家庄信息***学院 | 专 | 计算机应用技术</center>
+<center>石家庄***学院 | 专 | 计算机应用技术</center>
 <center>135****2732@163.com</center>
 
 # 联系方式
 
 - 手机：135****2732
 - Email：135****2732@163.com
-- 微信号：bing7730882**
+- 微信号：bing77**
 ---
 
 # 个人信息
 
  - 杨/女/1990 
- - 大专/石家庄信息*学院/计算机应用技术系 
+ - 大专/石家庄*学院/计算机应用技术系 
  - 工作年限：3年
  - 技术博客：[CSDN博客](http://blog.csdn.net/YangBingX)
  - Github: [GitHub](https://github.com/ybx13579) 
