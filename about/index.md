@@ -168,7 +168,7 @@ comments: false
                     base:jq、bootstrap、liMarquee
                 </li>
                 <li>
-                    点：video.js、zwibbler
+                    点：video.js、zwibbler
                 </li>
                 <li>
                     Tips：此系统用于外包项目的收发平台，与制作管理相接
