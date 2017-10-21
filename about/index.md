@@ -168,8 +168,8 @@ comments: false
                     base:jq、bootstrap、liMarquee
                 </li>
                 <li>
-                    点：
-                </li>
+                    点：video.js、zwibbler
+                </li>
                 <li>
                     Tips：此系统用于外包项目的收发平台，与制作管理相接
                 </li>
@@ -180,9 +180,9 @@ comments: false
 
 # 技术文章
 
--
--
-
+- [基于JQ的canvas插件→zwibbler，画图插件简单介绍，附下载地址](http://blog.csdn.net/yangbingx/article/details/65444590)
+- [ VUE项目创建过程及本地运行](http://blog.csdn.net/yangbingx/article/details/70792677)
+- [JQuery.Gantt（甘特图） 开发指南 , 附下载资源](http://blog.csdn.net/yangbingx/article/details/73470030)
 
 
 # 技能清单
