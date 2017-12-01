@@ -2,7 +2,7 @@
 layout: page
 title: Ice Yang 的简历
 tags: [html/css js/jq Echarts vue bootstrap]
-date: 2017-06-16
+date: 2017
 comments: false
 
 ---
