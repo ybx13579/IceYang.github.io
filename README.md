@@ -1,4 +1,4 @@
-# Ice Yang 的个人网站( 未更新完 )(^.べ)γ
+# Ice Yang 的个人网站  (^.べ)γ
     
 <a href="https://ybx13579.github.io/IceYang.github.io/ "  target="_blank" >个人网站传送门</a> 
 
