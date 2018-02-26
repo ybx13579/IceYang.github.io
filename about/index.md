@@ -23,8 +23,8 @@ comments: false
  - Github： [GitHub](https://github.com/ybx13579) 
  - 微博：[@话梅大人ME](http://weibo.com/u/2114928095)<br/>
  - 期望职位：Web前端工程师，H5工程师，JS工程师
- - 期望薪资：税前月薪10k~13k
- - 期望城市：北京||石家庄
+ - 期望薪资：税前月薪4k-7k||10k~13k
+ - 期望城市：石家庄||北京
  
 ---
 
