@@ -40,7 +40,7 @@ comments: false
         <li>
             <h4>1、SOOVII官网<span>2016-07-20至2016-08-18</span></h4>
             <ul>
-                <li>网址：<a target="_blank" href="www.soovii.com">www.soovii.com</a></li>
+                <li>网址：<a target="_blank">www.soovii.com</a></li>
                 <li>
                     base:jq、C3、响应式、swiper、video.js
                 </li>
