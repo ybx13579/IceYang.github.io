@@ -42,8 +42,8 @@ comments: false
             <ul>
                 <li>网址：<a target="_blank">www.soovii.com</a></li>
                 <li>
-                    base:jq、C3、响应式、swiper、video.js
-                </li>
+                    base:jq、C3、响应式、低版本浏览器兼容、swiper、video.js
+                </li>
                 <li>
                     点：走马灯、时间轴、幻灯片等
                 </li>
