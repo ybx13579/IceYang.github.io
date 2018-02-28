@@ -11,7 +11,6 @@ comments: false
 <center> 专 | 计算机应用技术</center>
 <center>iceyangweb@gmail.com</center>
 
-
 ---
 
 # 个人信息
@@ -27,7 +26,7 @@ comments: false
  - 期望城市：石家庄 / 北京
  
  
- 
+</br>
 ---
 
 
