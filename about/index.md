@@ -23,8 +23,8 @@ comments: false
  - Github： [GitHub](https://github.com/ybx13579) 
  - 微博：[@话梅大人ME](http://weibo.com/u/2114928095)<br/>
  - 期望职位：Web前端工程师，H5工程师，JS工程师
- - 期望薪资：税前月薪 4k-8k || 10k~13k
- - 期望城市：石家庄 || 北京
+ - 期望薪资：税前月薪 4k-8k / 10k~13k
+ - 期望城市：石家庄 / 北京
  
 ---
 
@@ -42,7 +42,7 @@ comments: false
             <ul>
                 <li>网址：<a target="_blank">www.soovii.com</a></li>
                 <li>
-                    base:jq、C3、响应式、低版本浏览器兼容、swiper、video.js
+                    base:jq、C3、响应式、低版本浏览器兼容、swiper、video.js
                 </li>
                 <li>
                     点：走马灯、时间轴、幻灯片等
