@@ -15,7 +15,7 @@ comments: false
 
 # 个人信息
 
- - Ice Yang/女/1993
+ - Ice Yang/女/1994
  - 大专/计算机应用技术专业
  - 工作年限：3年
  - 技术博客：[CSDN博客](http://blog.csdn.net/YangBingX)
