@@ -126,7 +126,7 @@ comments: false
                     base:jq、vue2、bootstrap、html2canvas、unitegallery、swiper、zwibbler
                 </li>
                 <li>    
-                    点：图片画笔编辑、视频画笔编辑、幻灯片、轮播等
+                    点：图片画笔编辑、视频画笔编辑、幻灯片、轮播等 
                 </li>
                 <li>
                     Tips：此系统用于项目的创建+管理，vue2用于绑接口，制作难点在于zwibbler
@@ -193,6 +193,7 @@ comments: false
     
     
 ## 中家卓智（北京） （ 2015年3月 ~ 2016年6月 ）  
+
 
 
 
