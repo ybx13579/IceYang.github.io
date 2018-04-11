@@ -115,7 +115,7 @@ comments: false
                     点：图片+视频编辑、轮播
                 </li>
                 <li>
-                    Tips：此系统类似ftk审核功能，审核图片+视频
+                    Tips：此系统类似ftk审核功能，审核图片+视频   
                 </li>
             </ul>
         </li>
