@@ -49,6 +49,12 @@ comments: false
             <li>功能：客服会话、付费、上传图片、预览保存图片、上传视频、打卡、生成报告、地理位置获取、消息推送…</li>
         </ul>
     </li>
+    <li>
+        <h4>4、公众号小游戏<span>2018-06-04至 至今</span></h4>
+        <ul>
+            <li>功能：上传、裁切、生成图片，canvas画图…</li>
+        </ul>
+    </li>
 </ul>
 
 ## 东明国际家居 （ 2018年4月 ~ 2018年5月 ）
@@ -242,7 +248,7 @@ comments: false
 
 - 设计：熟悉PS
 - 前端框架：Bootstrap/HTML5/
-- Web开发：JQuery/Echarts/VUE
+- Web开发：JQuery/Echarts/VUE/小程序
 - 前端工具：LeSS
 - 数据库相关：MySQL
 - 版本管理、文档和自动化部署工具：Git
