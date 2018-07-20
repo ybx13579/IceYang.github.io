@@ -255,6 +255,7 @@ comments: false
 - [基于JQ的canvas插件→zwibbler，画图插件简单介绍，附下载地址](http://blog.csdn.net/yangbingx/article/details/65444590)
 - [ VUE项目创建过程及本地运行](http://blog.csdn.net/yangbingx/article/details/70792677)
 - [JQuery.Gantt（甘特图） 开发指南 , 附下载资源](http://blog.csdn.net/yangbingx/article/details/73470030)
+- [小程序各种功能代码片段整理---持续更新](http://blog.csdn.net/yangbingx/article/details/80498851)
 
 
 # 技能清单
