@@ -266,6 +266,7 @@ comments: false
 - 数据库相关：MySQL
 - 版本管理、文档和自动化部署工具：Git
 - 云和开放平台：微信应用开发
+- 操做系统：Mac、Windows
 
 
 
