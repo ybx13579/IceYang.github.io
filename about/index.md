@@ -17,7 +17,7 @@ comments: false
 
  - Ice Yang/女/1994
  - 大专/计算机应用技术专业
- - 工作年限：3年
+ - 工作年限：3年+
  - 技术博客：[CSDN博客](http://blog.csdn.net/YangBingX)
  - Github： [GitHub](https://github.com/ybx13579) 
  - 微博：[@话梅大人ME](http://weibo.com/u/2114928095)<br/>
